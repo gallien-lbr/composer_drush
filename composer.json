@@ -1,0 +1,9 @@
+{
+  "name": "bm/mediatheques",
+  "description": "mediatheques bordeaux metropole",
+  "type": "project",
+  "require": {
+    "php": ">=8.2",
+    "drush/drush": "8.4.12"
+  }
+}
